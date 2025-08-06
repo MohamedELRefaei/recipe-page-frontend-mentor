@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Recipe Page - Frontend Mentor Challenge
 
 A responsive recipe page built with semantic HTML and mobile-first CSS. Demonstrates proper HTML5 structure, accessibility, and modern CSS practices.
@@ -19,4 +20,5 @@ Open `index.html` in your browser or use Live Server extension
 
 ---
 Challenge by [Frontend Mentor](https://www.frontendmentor.io) • Coded by Mohamed El Refaei 
+
 
